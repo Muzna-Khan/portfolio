@@ -1,6 +1,8 @@
 # portfolio
 
 Portfolio App.
+<img width="485" alt="image" src="https://github.com/user-attachments/assets/15ed4f98-db27-4b21-a320-3007505c40af" />
+
 
 ## Getting Started
 
